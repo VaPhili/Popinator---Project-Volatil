@@ -3,7 +3,7 @@ This is a MATLAB code for analyzing pop-ins in load-displacement curves. This to
 
 If you want to use this code, please cite it as following: 
 
-Lemkova V., Thielen T. Popintor (v1.0). DOI:10.5281/zenodo.xxxxxxx.
+Lemkova V., Thielen T. Popintor (v1.0). DOI:10.5281/zenodo.19254194.
 
 
 @software{popintor2026,
@@ -12,6 +12,7 @@ Lemkova V., Thielen T. Popintor (v1.0). DOI:10.5281/zenodo.xxxxxxx.
   year         = {2026},
   publisher    = {Zenodo},
   version      = {1.0},
-  doi          = {10.5281/zenodo.xxxxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxxxx}
+  doi          = {10.5281/zenodo.19254194},
+  url          = {https://doi.org/10.5281/zenodo.19254193}
 }
+
